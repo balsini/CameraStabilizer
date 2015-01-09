@@ -1,0 +1,109 @@
+11:23:18.790 [Worker-43] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,clone,-A,admin,http://admin:4a27a4@data.coocox.org:9090/cgi-bin/repo/92174c65-65ca-401f-8cd4-e2c7a2ffb7a3,C:/CooCox/CoIDE/repo\.rn\fossils\92174c65-65ca-401f-8cd4-e2c7a2ffb7a3.fossil] executed OK 
+Bytes      Cards  Artifacts     Deltas
+Sent:              53          1          0          0
+waiting for server...
+processed: 1%         
+processed: 7%         
+processed: 9%         
+processed: 33%         
+processed: 35%         
+processed: 36%         
+processed: 38%         
+processed: 83%         
+processed: 85%         
+processed: 95%         
+processed: 98%         
+Received:        2865         13          5          0
+Sent:              58          2          0          0
+waiting for server...
+processed: 3%         
+processed: 89%         
+Received:         694          3          0          0
+Total network traffic: 643 bytes sent, 3745 bytes received
+Rebuilding repository meta-data...
+  0.0% complete...
+  20.0% complete...
+  40.0% complete...
+  60.0% complete...
+  80.0% complete...
+  100.0% complete...
+project-id: d58c69bd4db9c49cfa803dc073fa529b43ff8550
+server-id:  6d3cc774671887f4556794e18d0a827c9ed2fbe0
+admin-user: admin (password is "68c1b8")
+
+11:23:19.963 [Worker-43] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,open,C:/CooCox/CoIDE/repo\.rn\fossils\92174c65-65ca-401f-8cd4-e2c7a2ffb7a3.fossil,-latest] executed OK 
+doc/description.html
+doc/docInfo.dat
+src/Example/PWM_LED.c
+project-name: <unnamed>
+repository:   C:/CooCox/CoIDE/repo\.rn\fossils\92174c65-65ca-401f-8cd4-e2c7a2ffb7a3.fossil
+local-root:   C:/CooCox/CoIDE/repo/Examples/1500_TIM_PWM LED togle/
+user-home:    C:/Users/Alessio/AppData/Local
+project-code: d58c69bd4db9c49cfa803dc073fa529b43ff8550
+checkout:     8b64dd4183b5741fa37cb30eaebf76c860f7c058 2014-08-28 14:45:28 UTC
+parent:       efa5e497f557389a34b3e095d366f42210d0036c 2014-08-28 14:45:47 UTC
+tags:         trunk
+comment:      commit the example sourceCode (user: admin)
+
+11:23:19.983 [Worker-43] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,close,-force] executed OK 
+
+
+11:23:21.716 [Worker-43] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`513`freshExamplesByCompId`9272
+14:30:14.535 [Worker-195] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`500`freshExamplesByCompId`1701
+14:30:25.722 [Worker-206] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`504`freshExamplesByCompId`1386
+14:30:38.016 [Worker-201] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`513`freshExamplesByCompId`2541
+15:16:01.531 [Worker-248] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`513`freshExamplesByCompId`1304
+15:18:33.521 [Worker-248] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`501`freshExamplesByCompId`1140
+15:18:42.095 [Worker-259] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`500`freshExamplesByCompId`1609
+15:19:14.202 [Worker-248] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,clone,-A,admin,http://admin:fa772c@data.coocox.org:9090/cgi-bin/repo/eaf5d8c2-98d5-4e6c-a68c-d2b206ee4233,C:/CooCox/CoIDE/repo\.rn\fossils\eaf5d8c2-98d5-4e6c-a68c-d2b206ee4233.fossil] executed OK 
+Bytes      Cards  Artifacts     Deltas
+Sent:              53          1          0          0
+waiting for server...
+processed: 2%         
+processed: 8%         
+processed: 11%         
+processed: 36%         
+processed: 38%         
+processed: 41%         
+processed: 43%         
+processed: 79%         
+processed: 82%         
+processed: 94%         
+processed: 98%         
+Received:        2356         13          5          0
+Sent:              58          2          0          0
+waiting for server...
+processed: 3%         
+processed: 89%         
+Received:         694          3          0          0
+Total network traffic: 645 bytes sent, 3235 bytes received
+Rebuilding repository meta-data...
+  0.0% complete...
+  20.0% complete...
+  40.0% complete...
+  60.0% complete...
+  80.0% complete...
+  100.0% complete...
+project-id: bacddc3d0b6d2794076df8267bc539ab34cf696d
+server-id:  b13b0fd61d3773ab24a66da40832c161cc7580fb
+admin-user: admin (password is "f02db6")
+
+15:19:15.259 [Worker-248] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,open,C:/CooCox/CoIDE/repo\.rn\fossils\eaf5d8c2-98d5-4e6c-a68c-d2b206ee4233.fossil,-latest] executed OK 
+doc/description.html
+doc/docInfo.dat
+src/example/SysTick_LED.c
+project-name: <unnamed>
+repository:   C:/CooCox/CoIDE/repo\.rn\fossils\eaf5d8c2-98d5-4e6c-a68c-d2b206ee4233.fossil
+local-root:   C:/CooCox/CoIDE/repo/Examples/1503_SysTick LED switching/
+user-home:    C:/Users/Alessio/AppData/Local
+project-code: bacddc3d0b6d2794076df8267bc539ab34cf696d
+checkout:     9645a45372525ae2d7ad44f2d5281272486c8514 2014-08-31 12:40:19 UTC
+parent:       9376005d1acf9c6057482f4a5483c146bab1467b 2014-08-31 12:40:41 UTC
+tags:         trunk
+comment:      commit the example sourceCode (user: admin)
+
+15:19:15.265 [Worker-248] INFO  org.coocox.codb.common.log.ErrorLog - [C:/CooCox/CoIDE/bin\fossil.exe,close,-force] executed OK 
+
+
+15:19:16.718 [Worker-248] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`54`freshExamplesByCompId`7124
+15:50:24.739 [Worker-289] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`513`freshExamplesByCompId`1115
